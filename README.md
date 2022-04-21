@@ -1,4 +1,7 @@
+<img align="center" alt="Juliokreis-Spread" height="90" width="110" src=https://hermes.digitalinnovation.one/tracks/a0fb3b13-3dd0-495e-8f07-77cc1a85991f.png> 
+
 # SpreadFullStackDeveloper
+
 Este repositório foi criado para organizar a evolução do BootCamp Spread Full Stack Developer promovido em parceria com a DIO
 
 ## Aprendizados
