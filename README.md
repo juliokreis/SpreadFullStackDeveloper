@@ -17,7 +17,7 @@ Fui desafiado a praticar o conhecimento adquirido no treinamento.
 
 
 ## 🛠 Habilidades
-Algoritmos, lógica de programação, Git, GitHub, HTML, CSS...
+Algoritmos, lógica de programação, Git, GitHub, HTML, CSS, Figma...
 
 ### Feedback são muito bem vindos.
 
