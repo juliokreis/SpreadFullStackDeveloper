@@ -1,5 +1,5 @@
 # SpreadFullStackDeveloper
-Este repositório foi criado para organizar a evolução do BootCamp Spread Full Stack Developer promovido em parceria pela DIO
+Este repositório foi criado para organizar a evolução do BootCamp Spread Full Stack Developer promovido em parceria com a DIO
 
 ## Aprendizados
 
