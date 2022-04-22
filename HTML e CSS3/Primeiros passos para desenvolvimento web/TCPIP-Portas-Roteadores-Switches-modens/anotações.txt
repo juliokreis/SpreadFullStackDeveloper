@@ -1,0 +1,10 @@
+Qual o POP3 e SMTP do Gmail?
+
+Servidor de recebimento de e-mails (POP)
+pop.gmail.com Requer SSL: Sim Porta: 995
+
+Servidor de recebimento de e-mails (IMAP)
+Imap.gmail.com Requer SSL: Sim Porta: 993
+
+Servidor de envio de e-mails (SMTP)	
+smtp.gmail.com Requer TLS: Sim Requer autenticação: Sim Porta para TLS/STARTTLS: 587
